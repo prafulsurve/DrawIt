@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PRAFUL-PC</Machine>
+    <WindowsUser>Praful</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>36C69CA057961960B71AC73273D15660604D38564E479CB0B23C16E24DDDE424</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>11123PrafulSurve.DrawItv1.0_1.0.0.1_neutral__3c06b9n5xcsbj</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>11123PrafulSurve.DrawItv1.0_3c06b9n5xcsbj!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>11123PrafulSurve.DrawItv1.0</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=8C074F91-667D-419C-A36A-658FDE7F1123</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.1</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Deployed App\DrawIt\DrawIt\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-10-19T17:31:57.232</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Deployed App\DrawIt\DrawIt\bin\Debug\DrawIt.exe">
+      <PackagePath>DrawIt.exe</PackagePath>
+      <Modified>2012-10-19T17:31:19.422</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Deployed App\DrawIt\DrawIt\bin\Debug\DrawIt.pdb">
+      <PackagePath>DrawIt.pdb</PackagePath>
+      <Modified>2012-10-19T17:31:19.406</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Deployed App\DrawIt\DrawIt\Assets\drawit-6539.ico">
+      <PackagePath>Assets\drawit-6539.ico</PackagePath>
+      <Modified>2012-10-12T17:30:10.231</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Deployed App\DrawIt\DrawIt\Assets\drawit-6539.png">
+      <PackagePath>Assets\drawit-6539.png</PackagePath>
+      <Modified>2012-10-12T17:30:10.231</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Deployed App\DrawIt\DrawIt\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-10-12T17:19:14.131</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Deployed App\DrawIt\DrawIt\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-10-12T17:18:36.686</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Deployed App\DrawIt\DrawIt\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-10-12T17:28:17.650</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Deployed App\DrawIt\DrawIt\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-10-13T18:40:00.449</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Deployed App\DrawIt\DrawIt\HTMLPage1.html">
+      <PackagePath>HTMLPage1.html</PackagePath>
+      <Modified>2012-09-21T19:46:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Deployed App\DrawIt\DrawIt\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-09-21T18:31:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Deployed App\DrawIt\DrawIt\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T10:49:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Deployed App\DrawIt\DrawIt\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2012-10-11T18:47:05.802</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Deployed App\DrawIt\DrawIt\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-10-19T17:31:57.114</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

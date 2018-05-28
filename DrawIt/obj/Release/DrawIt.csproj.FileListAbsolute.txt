@@ -1,0 +1,54 @@
+C:\Users\Praful\Desktop\DrawIt\DrawIt\bin\Release\DrawIt.exe
+C:\Users\Praful\Desktop\DrawIt\DrawIt\bin\Release\DrawIt.pdb
+C:\Users\Praful\Desktop\DrawIt\DrawIt\bin\Release\resources.pri
+C:\Users\Praful\Desktop\DrawIt\DrawIt\bin\Release\AppxManifest.xml
+C:\Users\Praful\Desktop\DrawIt\DrawIt\bin\Release\DrawIt.build.appxrecipe
+C:\Users\Praful\Desktop\DrawIt\DrawIt\obj\Release\App.g.i.cs
+C:\Users\Praful\Desktop\DrawIt\DrawIt\obj\Release\App.g.cs
+C:\Users\Praful\Desktop\DrawIt\DrawIt\obj\Release\Common\StandardStyles.g.i.cs
+C:\Users\Praful\Desktop\DrawIt\DrawIt\obj\Release\Common\StandardStyles.g.cs
+C:\Users\Praful\Desktop\DrawIt\DrawIt\obj\Release\MainPage.g.i.cs
+C:\Users\Praful\Desktop\DrawIt\DrawIt\obj\Release\MainPage.g.cs
+C:\Users\Praful\Desktop\DrawIt\DrawIt\obj\Release\XamlTypeInfo.g.cs
+C:\Users\Praful\Desktop\DrawIt\DrawIt\obj\Release\App.xaml
+C:\Users\Praful\Desktop\DrawIt\DrawIt\obj\Release\Common\StandardStyles.xaml
+C:\Users\Praful\Desktop\DrawIt\DrawIt\obj\Release\MainPage.xaml
+C:\Users\Praful\Desktop\DrawIt\DrawIt\obj\Release\DrawIt.exe
+C:\Users\Praful\Desktop\DrawIt\DrawIt\obj\Release\DrawIt.pdb
+C:\Users\Praful\Desktop\DrawIt\DrawIt\obj\Release\priconfig.xml.intermediate
+C:\Users\Praful\Desktop\DrawIt\DrawIt\obj\Release\layout.resfiles.intermediate
+C:\Users\Praful\Desktop\DrawIt\DrawIt\obj\Release\resources.resfiles.intermediate
+C:\Users\Praful\Desktop\DrawIt\DrawIt\obj\Release\pri.resfiles.intermediate
+C:\Users\Praful\Desktop\DrawIt\DrawIt\obj\Release\priconfig.xml
+C:\Users\Praful\Desktop\DrawIt\DrawIt\obj\Release\layout.resfiles
+C:\Users\Praful\Desktop\DrawIt\DrawIt\obj\Release\resources.resfiles
+C:\Users\Praful\Desktop\DrawIt\DrawIt\obj\Release\pri.resfiles
+C:\Users\Praful\Desktop\DrawIt\DrawIt\obj\Release\LanguageQualifiers.txt
+C:\Users\Praful\Desktop\DrawIt\DrawIt\obj\Release\ProjectArchitectures.txt
+D:\Deployed App\DrawIt\DrawIt\bin\Release\DrawIt.exe
+D:\Deployed App\DrawIt\DrawIt\bin\Release\DrawIt.pdb
+D:\Deployed App\DrawIt\DrawIt\bin\Release\resources.pri
+D:\Deployed App\DrawIt\DrawIt\bin\Release\AppxManifest.xml
+D:\Deployed App\DrawIt\DrawIt\bin\Release\DrawIt.build.appxrecipe
+D:\Deployed App\DrawIt\DrawIt\obj\Release\App.g.i.cs
+D:\Deployed App\DrawIt\DrawIt\obj\Release\App.g.cs
+D:\Deployed App\DrawIt\DrawIt\obj\Release\Common\StandardStyles.g.i.cs
+D:\Deployed App\DrawIt\DrawIt\obj\Release\Common\StandardStyles.g.cs
+D:\Deployed App\DrawIt\DrawIt\obj\Release\MainPage.g.i.cs
+D:\Deployed App\DrawIt\DrawIt\obj\Release\MainPage.g.cs
+D:\Deployed App\DrawIt\DrawIt\obj\Release\XamlTypeInfo.g.cs
+D:\Deployed App\DrawIt\DrawIt\obj\Release\App.xaml
+D:\Deployed App\DrawIt\DrawIt\obj\Release\Common\StandardStyles.xaml
+D:\Deployed App\DrawIt\DrawIt\obj\Release\MainPage.xaml
+D:\Deployed App\DrawIt\DrawIt\obj\Release\DrawIt.exe
+D:\Deployed App\DrawIt\DrawIt\obj\Release\DrawIt.pdb
+D:\Deployed App\DrawIt\DrawIt\obj\Release\priconfig.xml.intermediate
+D:\Deployed App\DrawIt\DrawIt\obj\Release\layout.resfiles.intermediate
+D:\Deployed App\DrawIt\DrawIt\obj\Release\resources.resfiles.intermediate
+D:\Deployed App\DrawIt\DrawIt\obj\Release\pri.resfiles.intermediate
+D:\Deployed App\DrawIt\DrawIt\obj\Release\priconfig.xml
+D:\Deployed App\DrawIt\DrawIt\obj\Release\layout.resfiles
+D:\Deployed App\DrawIt\DrawIt\obj\Release\resources.resfiles
+D:\Deployed App\DrawIt\DrawIt\obj\Release\pri.resfiles
+D:\Deployed App\DrawIt\DrawIt\obj\Release\LanguageQualifiers.txt
+D:\Deployed App\DrawIt\DrawIt\obj\Release\ProjectArchitectures.txt

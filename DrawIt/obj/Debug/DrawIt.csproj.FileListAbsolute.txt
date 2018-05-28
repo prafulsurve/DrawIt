@@ -1,0 +1,135 @@
+C:\Users\KedarNadkarny\Desktop\Project\DrawIt\DrawIt\obj\Debug\App.g.i.cs
+C:\Users\KedarNadkarny\Desktop\Project\DrawIt\DrawIt\obj\Debug\App.g.cs
+C:\Users\KedarNadkarny\Desktop\Project\DrawIt\DrawIt\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\KedarNadkarny\Desktop\Project\DrawIt\DrawIt\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\KedarNadkarny\Desktop\Project\DrawIt\DrawIt\obj\Debug\MainPage.g.i.cs
+C:\Users\KedarNadkarny\Desktop\Project\DrawIt\DrawIt\obj\Debug\MainPage.g.cs
+C:\Users\KedarNadkarny\Desktop\Project\DrawIt\DrawIt\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\KedarNadkarny\Desktop\Project\DrawIt\DrawIt\obj\Debug\App.xaml
+C:\Users\KedarNadkarny\Desktop\Project\DrawIt\DrawIt\obj\Debug\Common\StandardStyles.xaml
+C:\Users\KedarNadkarny\Desktop\Project\DrawIt\DrawIt\obj\Debug\MainPage.xaml
+C:\Users\KedarNadkarny\Desktop\Project\DrawIt\DrawIt\bin\Debug\DrawIt.exe
+C:\Users\KedarNadkarny\Desktop\Project\DrawIt\DrawIt\bin\Debug\DrawIt.pdb
+C:\Users\KedarNadkarny\Desktop\Project\DrawIt\DrawIt\bin\Debug\resources.pri
+C:\Users\KedarNadkarny\Desktop\Project\DrawIt\DrawIt\bin\Debug\AppxManifest.xml
+C:\Users\KedarNadkarny\Desktop\Project\DrawIt\DrawIt\bin\Debug\DrawIt.build.appxrecipe
+C:\Users\KedarNadkarny\Desktop\Project\DrawIt\DrawIt\obj\Debug\DrawIt.exe
+C:\Users\KedarNadkarny\Desktop\Project\DrawIt\DrawIt\obj\Debug\DrawIt.pdb
+C:\Users\KedarNadkarny\Desktop\Project\DrawIt\DrawIt\obj\Debug\priconfig.xml
+C:\Users\KedarNadkarny\Desktop\Project\DrawIt\DrawIt\obj\Debug\layout.resfiles
+C:\Users\KedarNadkarny\Desktop\Project\DrawIt\DrawIt\obj\Debug\resources.resfiles
+C:\Users\KedarNadkarny\Desktop\Project\DrawIt\DrawIt\obj\Debug\pri.resfiles
+C:\Users\KedarNadkarny\Desktop\Project\DrawIt\DrawIt\obj\Debug\LanguageQualifiers.txt
+C:\Users\KedarNadkarny\Desktop\Project\DrawIt\DrawIt\obj\Debug\ProjectArchitectures.txt
+C:\Users\KedarNadkarny\Desktop\Project\DrawIt\DrawIt\obj\Debug\priconfig.xml.intermediate
+C:\Users\KedarNadkarny\Desktop\Project\DrawIt\DrawIt\obj\Debug\layout.resfiles.intermediate
+C:\Users\KedarNadkarny\Desktop\Project\DrawIt\DrawIt\obj\Debug\resources.resfiles.intermediate
+C:\Users\KedarNadkarny\Desktop\Project\DrawIt\DrawIt\obj\Debug\pri.resfiles.intermediate
+C:\Users\KedarNadkarny\Desktop\DrawIt\DrawIt\bin\Debug\DrawIt.exe
+C:\Users\KedarNadkarny\Desktop\DrawIt\DrawIt\bin\Debug\DrawIt.pdb
+C:\Users\KedarNadkarny\Desktop\DrawIt\DrawIt\bin\Debug\resources.pri
+C:\Users\KedarNadkarny\Desktop\DrawIt\DrawIt\bin\Debug\AppxManifest.xml
+C:\Users\KedarNadkarny\Desktop\DrawIt\DrawIt\bin\Debug\DrawIt.build.appxrecipe
+C:\Users\KedarNadkarny\Desktop\DrawIt\DrawIt\obj\Debug\App.g.i.cs
+C:\Users\KedarNadkarny\Desktop\DrawIt\DrawIt\obj\Debug\App.g.cs
+C:\Users\KedarNadkarny\Desktop\DrawIt\DrawIt\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\KedarNadkarny\Desktop\DrawIt\DrawIt\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\KedarNadkarny\Desktop\DrawIt\DrawIt\obj\Debug\MainPage.g.i.cs
+C:\Users\KedarNadkarny\Desktop\DrawIt\DrawIt\obj\Debug\MainPage.g.cs
+C:\Users\KedarNadkarny\Desktop\DrawIt\DrawIt\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\KedarNadkarny\Desktop\DrawIt\DrawIt\obj\Debug\App.xaml
+C:\Users\KedarNadkarny\Desktop\DrawIt\DrawIt\obj\Debug\Common\StandardStyles.xaml
+C:\Users\KedarNadkarny\Desktop\DrawIt\DrawIt\obj\Debug\MainPage.xaml
+C:\Users\KedarNadkarny\Desktop\DrawIt\DrawIt\obj\Debug\DrawIt.exe
+C:\Users\KedarNadkarny\Desktop\DrawIt\DrawIt\obj\Debug\DrawIt.pdb
+C:\Users\KedarNadkarny\Desktop\DrawIt\DrawIt\obj\Debug\priconfig.xml.intermediate
+C:\Users\KedarNadkarny\Desktop\DrawIt\DrawIt\obj\Debug\layout.resfiles.intermediate
+C:\Users\KedarNadkarny\Desktop\DrawIt\DrawIt\obj\Debug\resources.resfiles.intermediate
+C:\Users\KedarNadkarny\Desktop\DrawIt\DrawIt\obj\Debug\pri.resfiles.intermediate
+C:\Users\KedarNadkarny\Desktop\DrawIt\DrawIt\obj\Debug\priconfig.xml
+C:\Users\KedarNadkarny\Desktop\DrawIt\DrawIt\obj\Debug\layout.resfiles
+C:\Users\KedarNadkarny\Desktop\DrawIt\DrawIt\obj\Debug\resources.resfiles
+C:\Users\KedarNadkarny\Desktop\DrawIt\DrawIt\obj\Debug\pri.resfiles
+C:\Users\KedarNadkarny\Desktop\DrawIt\DrawIt\obj\Debug\LanguageQualifiers.txt
+C:\Users\KedarNadkarny\Desktop\DrawIt\DrawIt\obj\Debug\ProjectArchitectures.txt
+D:\App Dev Software & Guide\Windows 8 Samples\DrawIt\DrawIt\bin\Debug\DrawIt.exe
+D:\App Dev Software & Guide\Windows 8 Samples\DrawIt\DrawIt\bin\Debug\DrawIt.pdb
+D:\App Dev Software & Guide\Windows 8 Samples\DrawIt\DrawIt\bin\Debug\resources.pri
+D:\App Dev Software & Guide\Windows 8 Samples\DrawIt\DrawIt\bin\Debug\AppxManifest.xml
+D:\App Dev Software & Guide\Windows 8 Samples\DrawIt\DrawIt\bin\Debug\DrawIt.build.appxrecipe
+D:\App Dev Software & Guide\Windows 8 Samples\DrawIt\DrawIt\obj\Debug\App.g.i.cs
+D:\App Dev Software & Guide\Windows 8 Samples\DrawIt\DrawIt\obj\Debug\App.g.cs
+D:\App Dev Software & Guide\Windows 8 Samples\DrawIt\DrawIt\obj\Debug\Common\StandardStyles.g.i.cs
+D:\App Dev Software & Guide\Windows 8 Samples\DrawIt\DrawIt\obj\Debug\Common\StandardStyles.g.cs
+D:\App Dev Software & Guide\Windows 8 Samples\DrawIt\DrawIt\obj\Debug\MainPage.g.i.cs
+D:\App Dev Software & Guide\Windows 8 Samples\DrawIt\DrawIt\obj\Debug\MainPage.g.cs
+D:\App Dev Software & Guide\Windows 8 Samples\DrawIt\DrawIt\obj\Debug\XamlTypeInfo.g.cs
+D:\App Dev Software & Guide\Windows 8 Samples\DrawIt\DrawIt\obj\Debug\App.xaml
+D:\App Dev Software & Guide\Windows 8 Samples\DrawIt\DrawIt\obj\Debug\Common\StandardStyles.xaml
+D:\App Dev Software & Guide\Windows 8 Samples\DrawIt\DrawIt\obj\Debug\MainPage.xaml
+D:\App Dev Software & Guide\Windows 8 Samples\DrawIt\DrawIt\obj\Debug\DrawIt.exe
+D:\App Dev Software & Guide\Windows 8 Samples\DrawIt\DrawIt\obj\Debug\DrawIt.pdb
+D:\App Dev Software & Guide\Windows 8 Samples\DrawIt\DrawIt\obj\Debug\priconfig.xml.intermediate
+D:\App Dev Software & Guide\Windows 8 Samples\DrawIt\DrawIt\obj\Debug\layout.resfiles.intermediate
+D:\App Dev Software & Guide\Windows 8 Samples\DrawIt\DrawIt\obj\Debug\resources.resfiles.intermediate
+D:\App Dev Software & Guide\Windows 8 Samples\DrawIt\DrawIt\obj\Debug\pri.resfiles.intermediate
+D:\App Dev Software & Guide\Windows 8 Samples\DrawIt\DrawIt\obj\Debug\priconfig.xml
+D:\App Dev Software & Guide\Windows 8 Samples\DrawIt\DrawIt\obj\Debug\layout.resfiles
+D:\App Dev Software & Guide\Windows 8 Samples\DrawIt\DrawIt\obj\Debug\resources.resfiles
+D:\App Dev Software & Guide\Windows 8 Samples\DrawIt\DrawIt\obj\Debug\pri.resfiles
+D:\App Dev Software & Guide\Windows 8 Samples\DrawIt\DrawIt\obj\Debug\LanguageQualifiers.txt
+D:\App Dev Software & Guide\Windows 8 Samples\DrawIt\DrawIt\obj\Debug\ProjectArchitectures.txt
+C:\Users\Praful\Desktop\DrawIt\DrawIt\bin\Debug\DrawIt.exe
+C:\Users\Praful\Desktop\DrawIt\DrawIt\bin\Debug\DrawIt.pdb
+C:\Users\Praful\Desktop\DrawIt\DrawIt\bin\Debug\resources.pri
+C:\Users\Praful\Desktop\DrawIt\DrawIt\bin\Debug\AppxManifest.xml
+C:\Users\Praful\Desktop\DrawIt\DrawIt\bin\Debug\DrawIt.build.appxrecipe
+C:\Users\Praful\Desktop\DrawIt\DrawIt\obj\Debug\App.g.i.cs
+C:\Users\Praful\Desktop\DrawIt\DrawIt\obj\Debug\App.g.cs
+C:\Users\Praful\Desktop\DrawIt\DrawIt\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Praful\Desktop\DrawIt\DrawIt\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Praful\Desktop\DrawIt\DrawIt\obj\Debug\MainPage.g.i.cs
+C:\Users\Praful\Desktop\DrawIt\DrawIt\obj\Debug\MainPage.g.cs
+C:\Users\Praful\Desktop\DrawIt\DrawIt\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Praful\Desktop\DrawIt\DrawIt\obj\Debug\App.xaml
+C:\Users\Praful\Desktop\DrawIt\DrawIt\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Praful\Desktop\DrawIt\DrawIt\obj\Debug\MainPage.xaml
+C:\Users\Praful\Desktop\DrawIt\DrawIt\obj\Debug\DrawIt.exe
+C:\Users\Praful\Desktop\DrawIt\DrawIt\obj\Debug\DrawIt.pdb
+C:\Users\Praful\Desktop\DrawIt\DrawIt\obj\Debug\priconfig.xml.intermediate
+C:\Users\Praful\Desktop\DrawIt\DrawIt\obj\Debug\layout.resfiles.intermediate
+C:\Users\Praful\Desktop\DrawIt\DrawIt\obj\Debug\resources.resfiles.intermediate
+C:\Users\Praful\Desktop\DrawIt\DrawIt\obj\Debug\pri.resfiles.intermediate
+C:\Users\Praful\Desktop\DrawIt\DrawIt\obj\Debug\priconfig.xml
+C:\Users\Praful\Desktop\DrawIt\DrawIt\obj\Debug\layout.resfiles
+C:\Users\Praful\Desktop\DrawIt\DrawIt\obj\Debug\resources.resfiles
+C:\Users\Praful\Desktop\DrawIt\DrawIt\obj\Debug\pri.resfiles
+C:\Users\Praful\Desktop\DrawIt\DrawIt\obj\Debug\LanguageQualifiers.txt
+C:\Users\Praful\Desktop\DrawIt\DrawIt\obj\Debug\ProjectArchitectures.txt
+D:\Deployed App\DrawIt\DrawIt\bin\Debug\DrawIt.exe
+D:\Deployed App\DrawIt\DrawIt\bin\Debug\DrawIt.pdb
+D:\Deployed App\DrawIt\DrawIt\bin\Debug\resources.pri
+D:\Deployed App\DrawIt\DrawIt\bin\Debug\AppxManifest.xml
+D:\Deployed App\DrawIt\DrawIt\obj\Debug\App.g.i.cs
+D:\Deployed App\DrawIt\DrawIt\obj\Debug\App.g.cs
+D:\Deployed App\DrawIt\DrawIt\obj\Debug\Common\StandardStyles.g.i.cs
+D:\Deployed App\DrawIt\DrawIt\obj\Debug\Common\StandardStyles.g.cs
+D:\Deployed App\DrawIt\DrawIt\obj\Debug\MainPage.g.i.cs
+D:\Deployed App\DrawIt\DrawIt\obj\Debug\MainPage.g.cs
+D:\Deployed App\DrawIt\DrawIt\obj\Debug\XamlTypeInfo.g.cs
+D:\Deployed App\DrawIt\DrawIt\obj\Debug\App.xaml
+D:\Deployed App\DrawIt\DrawIt\obj\Debug\Common\StandardStyles.xaml
+D:\Deployed App\DrawIt\DrawIt\obj\Debug\MainPage.xaml
+D:\Deployed App\DrawIt\DrawIt\obj\Debug\DrawIt.exe
+D:\Deployed App\DrawIt\DrawIt\obj\Debug\DrawIt.pdb
+D:\Deployed App\DrawIt\DrawIt\obj\Debug\priconfig.xml.intermediate
+D:\Deployed App\DrawIt\DrawIt\obj\Debug\layout.resfiles.intermediate
+D:\Deployed App\DrawIt\DrawIt\obj\Debug\resources.resfiles.intermediate
+D:\Deployed App\DrawIt\DrawIt\obj\Debug\pri.resfiles.intermediate
+D:\Deployed App\DrawIt\DrawIt\obj\Debug\priconfig.xml
+D:\Deployed App\DrawIt\DrawIt\obj\Debug\layout.resfiles
+D:\Deployed App\DrawIt\DrawIt\obj\Debug\resources.resfiles
+D:\Deployed App\DrawIt\DrawIt\obj\Debug\pri.resfiles
+D:\Deployed App\DrawIt\DrawIt\obj\Debug\LanguageQualifiers.txt
+D:\Deployed App\DrawIt\DrawIt\obj\Debug\ProjectArchitectures.txt
+D:\Deployed App\DrawIt\DrawIt\bin\Debug\DrawIt.build.appxrecipe
